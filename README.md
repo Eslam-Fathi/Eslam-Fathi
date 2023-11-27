@@ -7,7 +7,7 @@ I am a fresh Flutter developer. 🕺🏽
 <div display="flex">
   <img src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
   <img src="https://img.shields.io/badge/firebase-%23007ACC.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
+  <img src="https://img.shields.io/badge/Cubit-%23663399.svg?style=for-the-badge&logo=cubite" alt="Cubit"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
