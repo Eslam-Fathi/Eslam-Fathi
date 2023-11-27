@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a fresh Flutter developer. 🕺🏽
+I am a fresh Flutter developer and a gamer which is my drive to someday be able to create new games for others to enjoy as well. 🕺🏽
 
 **I love working with**
 
@@ -27,7 +27,8 @@ I am a fresh Flutter developer. 🕺🏽
 
 ### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
+- Integrating AI models into Flutter applications
+- Game creation with Flutter
 
 ### 📫 How to reach me
 
