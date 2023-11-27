@@ -7,6 +7,6 @@
 
 - 📫 How to reach me **efathi2511@gmail.com**
 
+<img src="![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)" alt="Flutter"/>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
