@@ -36,10 +36,10 @@ I am a fresh Flutter developer and a gamer which is my drive to someday be able 
   <a href="https://www.linkedin.com/in/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.facebook.com/Abo.Fathi.2511/">
+    <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
+  <a href="https://wa.me/qr/FW7CYT2ZHENON1">
     <img src="https://img.shields.io/badge/Whatsapp-gray?style=for-the-badge&logo=Whatsapp" alt="WhatsApp"/>
   </a>
 </div>
