@@ -33,7 +33,7 @@ I am a fresh Flutter developer and a gamer which is my drive to someday be able 
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://www.linkedin.com/in/eslam-fathi-2a19ab258/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/Abo.Fathi.2511/">
