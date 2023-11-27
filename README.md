@@ -40,7 +40,7 @@ I am a fresh Flutter developer and a gamer which is my drive to someday be able 
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Whatsapp-%3895A4?style=for-the-badge&logo=Whatsapp" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/Whatsapp-#3895A4?style=for-the-badge&logo=Whatsapp" alt="WhatsApp"/>
   </a>
 </div>
 
