@@ -37,7 +37,7 @@ I am a fresh Flutter developer and a gamer which is my drive to someday be able 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/Abo.Fathi.2511/">
-    <img src="https://img.shields.io/badge/facebook-%23001F3F.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/facebook-%23001F3F.svg?style=for-the-badge&logo=Facebook" alt="Facebook"/>
   </a>
   <a href="https://wa.me/qr/FW7CYT2ZHENON1">
     <img src="https://img.shields.io/badge/Whatsapp-gray?style=for-the-badge&logo=Whatsapp" alt="WhatsApp"/>
