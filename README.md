@@ -20,7 +20,7 @@ I am a fresh Flutter developer and a gamer which is my drive to someday be able 
 <div display="flex">
   <img src="https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
    <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23001F3F.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
   <img src="https://img.shields.io/badge/unreal%20engine-gray.svg?style=for-the-badge&logo=unreal%20engine" alt="Unreal"/>
   
 </div>
@@ -37,7 +37,7 @@ I am a fresh Flutter developer and a gamer which is my drive to someday be able 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/Abo.Fathi.2511/">
-    <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/facebook-%23001F3F.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://wa.me/qr/FW7CYT2ZHENON1">
     <img src="https://img.shields.io/badge/Whatsapp-gray?style=for-the-badge&logo=Whatsapp" alt="WhatsApp"/>
