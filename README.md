@@ -5,25 +5,24 @@ I am a fresh Flutter developer. 🕺🏽
 **I love working with**
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
   <img src="https://img.shields.io/badge/firebase-%23007ACC.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
    <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python" alt="Python"/>
 
 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
-
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- My graduation project (currently)
+
 
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
+   <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/ureal-%23FF9A00.svg?style=for-the-badge&logo=unreal" alt="Unreal"/>
+  
 </div>
 
 ### 🤔 I’m looking for help with
