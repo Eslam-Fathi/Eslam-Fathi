@@ -21,7 +21,7 @@ I am a fresh Flutter developer. 🕺🏽
   <img src="https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
    <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/unreal%20engine-%23FF9A00.svg?style=for-the-badge&logo=unreal%20engine" alt="Unreal"/>
+  <img src="https://img.shields.io/badge/unreal%20engine-gray.svg?style=for-the-badge&logo=unreal%20engine" alt="Unreal"/>
   
 </div>
 
