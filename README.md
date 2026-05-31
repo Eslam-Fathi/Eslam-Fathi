@@ -1,43 +1,80 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">Hi there, I'm Eslam Fathi 👋</h1>
+<h3 align="center">A passionate Mobile & Web Developer specializing in Flutter</h3>
 
-I am a fresh Flutter developer and a gamer which is my drive to someday be able to create new games for others to enjoy as well. 🕺🏽
-
-**I love working with**
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/firebase-%23007ACC.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-   <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python" alt="Python"/>
-
-
-### 🔭 I’m working on
-
-- My graduation project (currently)
-
-
-### 🌱 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/flutter-%23007ACC.svg?style=for-the-badge&logo=flutter" alt="Flutter"/>
-   <img src="https://img.shields.io/badge/python-black.svg?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/unreal%20engine-gray.svg?style=for-the-badge&logo=unreal%20engine" alt="Unreal"/>
-  
-</div>
-
-### 🤔 I’m looking for help with
-
-- Integrating AI models into Flutter applications
-- Game creation with Flutter
-
-### 📫 How to reach me
-
-<div display="flex">
-  <a href="https://www.linkedin.com/in/eslam-fathi-2a19ab258/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://github.com/Eslam-Fathi/Eslam-Fathi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Crafting+Beautiful+Flutter+Apps;Building+Cross-Platform+Solutions;Mobile+%26+Web+Development;Turning+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
-  <a href="https://www.facebook.com/Abo.Fathi.2511/">
-    <img src="https://img.shields.io/badge/facebook-%23001F3F.svg?style=for-the-badge&logo=Facebook" alt="Facebook"/>
-  </a>
-  
+</p>
 
+<!-- About Me -->
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working on **Cross-platform mobile and web applications using Flutter**
+- 🌱 I’m currently diving deeper into **Advanced Flutter animations, UI/UX design, and AI integration**
+- 🏗️ Building with: **Flutter, Dart, Firebase, and Web Technologies**
+- 💬 Ask me about: **Flutter development, responsive design, and cross-platform architecture**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/eslam-fathi-2a19ab258)**
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+- 🏥 **[Medical Follow-Up App](https://github.com/Eslam-Fathi/medical_follow_up_app)** - A comprehensive app for medical follow-ups.
+- ✈️ **[Flutter Tourism App](https://github.com/Eslam-Fathi/flutter_tourism_app_26)** - A beautifully designed tourism app.
+- 📊 **[Accountant App](https://github.com/Eslam-Fathi/accountant_app_for_data_management_26)** - Data management app for accountants.
+- 🍔 **[Meals App](https://github.com/Eslam-Fathi/Meals-app)** - A mobile app featuring a cooking and meals guide.
+
+<!-- Tech Stack -->
+## 💻 Tech Stack
+
+<details>
+  <summary><b>Mobile & Web Development</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>Backend as a Service & Databases</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>Tools & Platforms</b></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  </p>
+</details>
+
+<br>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-Fathi&show_icons=true&theme=radium&hide_border=true" alt="Eslam-Fathi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Fathi&layout=compact&theme=radium&hide_border=true" alt="Eslam-Fathi's Top Languages" width="48%" />
+</p>
+
+<!-- Connect -->
+## 🤝 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/eslam-fathi-2a19ab258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Eslam-Fathi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
