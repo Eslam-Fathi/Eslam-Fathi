@@ -68,7 +68,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eslam-Fathi&show_icons=true&theme=radium&hide_border=true" alt="Eslam-Fathi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-Fathi&layout=compact&theme=radium&hide_border=true" alt="Eslam-Fathi's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eslam-Fathi&layout=compact&theme=radium&hide_border=true" alt="Eslam-Fathi's Top Languages" width="48%" />
 </p>
 
 <!-- Connect -->
